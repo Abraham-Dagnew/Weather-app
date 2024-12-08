@@ -16,7 +16,7 @@ Welcome to the **Weather App**! This is a Python-based desktop application built
 ## Technology Stack  
 - **Programming Language**: Python  
 - **Libraries/Frameworks**:  
-  - `PyQt5`: For creating the GUI  
+  - `PyQt5`(QT for python): For creating the GUI  
   - `requests`: For making API calls to the Weather API  
 
 ---
