@@ -1,4 +1,4 @@
-# Weather App - Desktop Application  
+# Weather App   
 
 ## Overview  
 Welcome to the **Weather App**! This is a Python-based desktop application built using the **PyQt5** library. The app allows users to retrieve and display current weather data by interacting with the **Weather API**. Just enter the name of a city, and the app fetches and displays real-time weather information in an intuitive and easy-to-use interface.
