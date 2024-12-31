@@ -8,7 +8,7 @@ This is a Python-based desktop application built using the **PyQt5** library. Th
 ## Features  
 - **Search by City**: Get weather details by entering a city name.  
 - **Real-Time Data**: Fetches live weather data from the **Weather API**.  
-- **User-Friendly Interface**: Designed using PyQt5 for a seamless desktop experience.  
+- **User Interface**: Designed using PyQt5 for a seamless desktop experience.  
 - **Error handling**: Handles invalid inputs and displays meaningful messages.  
 
 ---
