@@ -23,4 +23,4 @@ This is a Python-based desktop app built using the **PyQt5** library. The app al
 
 
 ## API Reference  
-This app uses the Weather API to fetch weather data.
+This app uses the WeatherAPI to fetch weather data.
