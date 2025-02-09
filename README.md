@@ -13,7 +13,7 @@ This is a Python-based desktop app built using the **PyQt5** library. The app al
 
 ---
 
-## Technology Stack  
+## Tech Stack  
 - **Programming Language**: Python  
 - **Libraries/Frameworks**:  
   - `PyQt5`(QT for python): For creating the GUI  
